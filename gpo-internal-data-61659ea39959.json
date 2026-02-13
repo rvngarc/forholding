@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gpo-internal-data",
+  "private_key_id": "61659ea39959e6157eb5f1c3bb70f566821cafee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEdO6D86lz/6Wa\npKijdT/U7Ut4NEuw8q5WV+h7NoHInLcAEdpZUTNKR1aK4fbgWA6lTARbin+uviqZ\n9mld2VnmeoXPLljiQzpMA7nslWMKuEXEwP36XBu7VvJnaHsngtQEBIn0NhLG9avC\nrGOE8BsSR8dovEWo8LaYNAGVDy7iylyJ41nIQTu4QCeqWnjApYUbP8mZp+o8sIpH\nLVO+DE6irHPQ6qyW1tWC7SHEs1WmTeS3HrGF0rwWlGEjsD9C2Q+uqovtW9V/DmoA\nVdw87q4GWH7zKcvXBOS74tDl5xtUotHrj++BvEcRdzHdF8r7xokJ6Ys8yHtJ8W8d\ndnillB57AgMBAAECggEAFJuaKYf1zo/n9JYxL8ms2HkhNuAa0IT5z1+JU44e2ccW\nqzs0MbUC3FfUttzdOMtZPfMAwgQqlfn8yLRrI8fDq8ROel0yQF8s+QGrDyuHKCi2\n/jIAcl1sdfUOQyqtQIfIwGMkKtSWmP2hoYTT1ljEKOFpWY3mVhe/ZQKPkpifzR+d\n75aQfkx89NzxfAw/Okb9wRSlHpODu7bQHm4gQDCdPfV/Mg6kzPBCXttJ26Ql5+CK\nsQPfx+/NJGPl5VfIVWHOKn9I86JuFjAb0zgWXvpVy8uv1pIbf7N1yhfET35zAZPH\nl+0j6QqvEW74e5b7sAvJVUGF81yoYkh3vy1xUc4EgQKBgQDyPUnE3Fyz6QwD1dK+\nOtBVpn1mbctd7Wv1ivUGK2BQmPe3w0+UZF6OcauuNEvR1g5GjQlytVXHrDZMPsO3\nAgfDY142HEs/ayI9ba+jRbJJ7Gu3iPpprRRhznwm0szNRipfeDrFFy5rcljRBeHx\nll99o87ldm/QCmO80UdpAtDVTwKBgQDPndwcYvf4w7aVsUNi5O5Ou8UitC3juVOh\npdfUr6LA69A/ci4BIAKICy+mWN6ekwmAg7TkmxRM1iumhhPxOLHJWnyqgvypay09\nujlth/3aCsacbq42zQgjsFJ3W+My2MsfMmlhMv9bEi7j7Eg/N3IEAv5s/ajdVfbI\nDtIYmdmxFQKBgQCGpWJ3tjUhG4y+JQA7FN3wfdZ+NNExqGK13UNM5pdmtWAcGMgH\nJ7MXYj+XWSI7xMuyk3qI9Bp2HlcgElMfSlWeWYFoelmpKpehpXJXQspTJMLLBayL\nSNVneCqyOcH05+dtoZqpKrV2q9yKcsagToFNiNvb1/VWoi/GKF2VFSeXKQKBgByp\n1rG0mDeoDZUtG/iTUrNcCSN5bLx74af3lYyvkvC/ncikouVU3gSaRsHYkyOheTZc\n+KR3JJ5XEz+yUx6CjUkXTQ7ddrSNL3nONA+DLvDje/gs77BxLiZ/OWNxNDTY6XIt\nK49X0xlnsUGWZYMUzJDxON8jRiUIsUF9ilQLKZrhAoGBANwhKEaTBD7YT4ql0Itp\nEX9J1yg6q6q9SWPA2P/+T5itz3/Peo0p1ney3XbNsACJ4YLtRoEnlAyoC3Nw+lx+\nQ5GsQ0sykGEMy9HruG++lEZttIKIbxwWz+5SqhP79Qc6i6bpBcRW/NtcR7WDcTMF\nkXJV7qqzWSRtS8fDhyIKSrKg\n-----END PRIVATE KEY-----\n",
+  "client_email": "apigee-automation-nonprod@gpo-internal-data.iam.gserviceaccount.com",
+  "client_id": "112293911835088185852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apigee-automation-nonprod%40gpo-internal-data.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

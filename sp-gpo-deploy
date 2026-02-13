@@ -1,0 +1,1 @@
+az login --service-principal --username ec2b5f59-89e8-48db-b540-433fad000b04 --password saj8Q~CSso2IGcBBFxmygUcKIi6Nntte0p-DgbDH --tenant=668722e9-290e-4750-b455-c0d6597eb6a2
