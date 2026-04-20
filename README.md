@@ -1,2 +1,4 @@
-# forholding
-Dev Work
+# Maybe One Day...
+Companies will realize that fucking over employees is actually BAD for business. 
+
+Until then...
